@@ -1,5 +1,5 @@
 package Sorteren;
-
+// even op regel twee commentaar toevoegen
 public class GetallenSorteren {
 	public static void main(String[] args) {
 		int[] lijstb = { 4,15,3,9, 1 }; 
