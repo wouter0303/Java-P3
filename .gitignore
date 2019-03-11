@@ -21,3 +21,12 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# eclipse project file
+/bin/
+.settings/
+.classpath
+.project
+.idea #als je met NB of IntelliJ werkt
+
+
