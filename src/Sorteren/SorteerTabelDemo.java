@@ -8,6 +8,7 @@ package Sorteren;
  * 
  * 
  */
+
 import java.util.Arrays;
 import java.util.ArrayList;
 import java.util.Vector;
@@ -53,7 +54,6 @@ public class SorteerTabelDemo {
 		//    for (Object o:rowData){
 		//		System.out.println("x"+ rowData);
 		//	   }
-
 		//NU ROWDATA AAN EEN JTABLE KNOPEN EN KOLOMNAMEN INSTELLEN    
 		JTable tabelVoorbeeld = new JTable(rowData,KolomNamenV);
 
@@ -80,6 +80,7 @@ public class SorteerTabelDemo {
 		//EEN ARRAYLIST TERUGGEVEN
 		return list;	  
 	}
+	
 	// EEN ARRALIST OMZETTEN NAAR EEN ARRAY
 	// LASTIG IS DAT HET ARRAY DUS EEN VAST AANTAL ELEMENTEN HEEFT EN EEN ARRAYLIST IN PRINCIOE NIET
 	// DAAROM WORDT DE SIZE VAN HET ARRAYLIST BEREKEND EN GEBRUIKT OM DE GROOTE VAN HET ARRAY TE BEPALEN
@@ -94,9 +95,6 @@ public class SorteerTabelDemo {
 		//EEN ARRAY TERUG GEVEN
 		return tabel;
 	}
-
-
-
 
 }
 

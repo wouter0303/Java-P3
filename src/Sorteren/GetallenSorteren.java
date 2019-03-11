@@ -10,7 +10,7 @@ public class GetallenSorteren {
 			System.out.print(lijstc[teller]+" ");
 		}
 	}
-	
+	//dit is een branch
 	//regel14 dit is dus de test
 	//heb branch aangemaakt en via eclipse een commit gedaan
 	
