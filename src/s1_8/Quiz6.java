@@ -6,7 +6,8 @@ public class Quiz6
 {
 	public static void main(String[] args)
 	{
-		Quiz6 kb = new Quiz6();
+		Quiz5 kb = new Quiz5();
 		kb.mijnMethode();
 	}
+
 }

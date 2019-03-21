@@ -6,7 +6,7 @@ public class Quiz5
 	protected int x =2;
 	int y =1;
 	private int z = 4;
-	
+
 	public void mijnMethode()
 	{
 		System.out.print(w); 
