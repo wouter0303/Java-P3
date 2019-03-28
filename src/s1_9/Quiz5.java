@@ -35,8 +35,9 @@ public class Quiz5
     boolean b = Arrays.equals(arrCharA, arrCharB);
     if (arrCharA == arrayChar) System.out.println("equal"); 
     Arrays.sort(arrayChar);
-    System.out.print(i + " " + b);
-    
+    System.out.println(i + " " + b);
+    System.out.println(" "+ "The unsorted char array is:");
+    System.out.println(Arrays.toString(arrayChar));
     System.out.println(" "+ "The sorted char array is:");
     for (char number : arrayChar) {
        System.out.println("Number = " + number);
