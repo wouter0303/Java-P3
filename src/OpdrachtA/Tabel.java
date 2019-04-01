@@ -1,3 +1,4 @@
+//gemaakt door wouter
 package OpdrachtA;
 
 import java.util.Random;

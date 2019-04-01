@@ -1,3 +1,4 @@
+//gemaakt door wouter
 package s1_8;
 
 public class Quiz2
